@@ -1,11 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="style.css">
-    <style>
-      body{
+body{
     margin: 0;
     padding: 0;
     box-sizing: border-box;
@@ -142,52 +135,8 @@
     display: block;
    }
       }
-    </style>
-<title>Google.Com</title>
-</head>
-<body>
-    <section>
-        <header>
-          <ul>
-            <li><a href="#">Gmail</a></li>
-            <li><a href="#"></a>Images</li>
-            <li><a href="#"><img src="bg/bars.png"></a></li>
-            <li><a href="#"><button>Sing In</button></a></li>
-          </ul>
-        </header>
-        <div class="main">
-          <img src="bg/google.png" alt="Google">
-          <div class="searcebox">
-            <input type="text"class="searce" placeholder="Search Google or type a URL
-            ">
-            <div class="icons">
-              <div><img src="bg/search.png"></div>
-              <div><img src="bg/mic.png" ></div>    
-            </div>
-          </div>
-              <div class="buttons">
-                <button>Google Searce</button>
-                <button>I'm Filing Luky</button>
-              </div>
-                <div class="lang">
-                   Google Offerd in <a href="#">বাংলা</a>
-                </div>
-        </div>
-        <div class="footer">
-          <div class="row">
-            <ul>
-              <li><a href="#">Advartising</a></li>
-              <li><a href="#">Business</a></li>
-              <li><a href="#">About</a></li>
-              <li><a href="#">How searce works</a></li>
-            </ul>
-            <ul>
-              <li><a href="#">Privacy</a></li>
-              <li><a href="#">Terms</a></li>
-              <li><a href="#">Setting</a></li>
-            </ul>
-          </div>
-        </div>
-      </section>
-</body>
-</html>
+    
+
+
+
+   
